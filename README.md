@@ -1,7 +1,7 @@
 
 # ⚙️ The Tweaking Mega Book — By the Community, For the Community
 
-Welcome to **The Tweaking Mega Book** — a growing archive of system optimization knowledge built by real enthusiasts, for real performance. Whether you're gaming, streaming, building ultra-minimal setups, or just obsessed with clean and fast systems — this is your home.
+Welcome to **The Tweaking Mega Book** — a growing archive of system optimization knowledge for real performance. 
 
 ---
 
