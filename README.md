@@ -9,7 +9,7 @@ Welcome to **The Tweaking Mega Book** — a growing archive of system optimizati
 
 My name is **Jayy**, and I’ve been a part of the PC tweaking scene for a little over **2 years**. In that time, I’ve worked with over **500+ clients**, released widely-used free tools, and learned a *ton* about what actually works — and what’s just placebo.
 
-This project contaiuns guides, my personal stash of tested tweaks, scripts, and system configs and so much more. 
+This project contaiuns guides, my personal stash of tested tweaks, scripts, and system configs and so much more. I will be slowly adding to thsi overtime and hope to transform it into something great.
 
 ---
 
