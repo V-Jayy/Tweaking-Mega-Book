@@ -17,7 +17,6 @@ This project contaiuns guides, my personal stash of tested tweaks, scripts, and 
 
 This repo is structured to cover every major aspect of PC tweaking:
 
-- 🧠 **Device Manager Tweaks**
 - 🧬 **BIOS Optimization**
 - ⚙️ **General Windows Settings**
 - 💿 **NTLite / Custom ISO Builds**
